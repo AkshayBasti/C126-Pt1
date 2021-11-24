@@ -1,0 +1,16 @@
+.note
+{
+    font-size: 15px;
+    color: darkslategrey;
+}
+
+body {
+    background-size: cover;
+}
+
+.canvas {
+  background-color:mediumspringgreen;
+  border:5px solid white;
+  border-radius:20px;
+  box-shadow: 5px 5px 5px #73cfd8;
+}
